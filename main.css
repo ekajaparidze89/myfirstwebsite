@@ -1,0 +1,39 @@
+
+
+
+h1, h3, h4	 {
+ color: red ;
+
+}
+
+
+p { color: green;
+    font-weight: bold;
+    font-style: italic;
+}
+
+header, footer {
+background-color: gray;
+
+}
+span {color: blue;
+
+}
+
+
+#logo {
+
+
+	width: 100px;
+
+	/*height:400px;*/
+
+}
+
+.large-text {
+
+	font-size: 25px;
+	color: black;
+}
+
+
